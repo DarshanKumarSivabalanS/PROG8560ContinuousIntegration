@@ -1,0 +1,14 @@
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\bin\Debug\CalcSum.exe.config
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\bin\Debug\CalcSum.exe
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\bin\Debug\CalcSum.pdb
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.csprojResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\MainWindow.g.cs
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\App.g.cs
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum_MarkupCompile.cache
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum_MarkupCompile.lref
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\MainWindow.baml
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.g.resources
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.Properties.Resources.resources
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.csproj.GenerateResource.Cache
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.exe
+c:\users\rick\documents\visual studio 2015\Projects\CalcSum\CalcSum\obj\Debug\CalcSum.pdb
